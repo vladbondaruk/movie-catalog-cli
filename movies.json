@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Dune",
+        "genre": "Sci-Fi",
+        "year": 2021,
+        "status": "Переглянуто",
+        "rating": 7
+    },
+    {
+        "title": "Scarface",
+        "genre": "Crime",
+        "year": 1983,
+        "status": "Переглянуто",
+        "rating": 8
+    },
+    {
+        "title": "City of God",
+        "genre": "Crime",
+        "year": 2002,
+        "status": "Переглянуто",
+        "rating": 10
+    }
+]
